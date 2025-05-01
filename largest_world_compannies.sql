@@ -1,3 +1,4 @@
+--data cleaning
 select `Name`, Industry
 FROM largest_companies;
 
@@ -5,6 +6,7 @@ select `Name`, Industry
 FROM largest_companies
 WHERE `Name` LIKE "%Petro%";
 
+--making a copy to apply changes
 CREATE TABLE larg_comp_copy
 LIKE largest_companies;
 
@@ -12,6 +14,7 @@ INSERT larg_comp_copy
 select *
 FROM largest_companies;
 
+--identifying the problem
 select *
 FROM larg_comp_copy
 WHERE Industry LIKE '%Oil%';
@@ -47,6 +50,7 @@ select *
 FROM larg_comp_copy
 ;
 
+--more data cleaning
 UPDATE larg_comp_copy
 SET `Headquarters[note 1]` = "United States"
 WHERE `Headquarters[note 1]` = '';
@@ -57,6 +61,7 @@ CHANGE COLUMN `Headquarters[note 1]` `Headquarters` TEXT ;
 select *
 FROM larg_comp_copy;
 
+--setting up for tableau
 ALTER TABLE larg_comp_copy
 MODIFY COLUMN `Employees` INT ;
 
@@ -78,6 +83,7 @@ DROP COLUMN `State-Owned` ;
 select *
 FROM larg_comp_copy;
 
+--making copy the new and improved file
 RENAME TABLE larg_comp_copy TO largest_companies;
 
 
