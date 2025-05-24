@@ -1,0 +1,243 @@
+"Country";"gdp_per_capita";"gdp_per_capita_rank"
+"Qatar";116935.6;1
+"Luxembourg";94277.965;2
+"Singapore";85535.383;3
+"Brunei";71809.251;4
+"Ireland";67335.293;5
+"United Arab Emirates";67293.483;6
+"Kuwait";65530.537;7
+"Norway";64800.057;8
+"Switzerland";57410.166;9
+"San Marino";56861.47;10
+"Bermuda";50669.315;11
+"Cayman Islands";49903.029;12
+"Saudi Arabia";49045.411;13
+"Netherlands";48472.545;14
+"Sweden";46949.283;15
+"Denmark";46682.515;16
+"Iceland";46482.958;17
+"Austria";45436.686;18
+"Australia";44648.71;19
+"Canada";44017.591;20
+"Bahrain";43290.705;21
+"Belgium";42658.576;22
+"Finland";40585.721;23
+"United Kingdom";39753.244;24
+"Japan";39002.223;25
+"Oman";37960.709;26
+"Malta";36513.323;27
+"Sint Maarten (Dutch part)";36327.232;28
+"New Zealand";36085.843;29
+"Aruba";35973.781;30
+"South Korea";35938.374;31
+"Italy";35220.084;32
+"Puerto Rico";35044.67;33
+"Israel";33132.32;34
+"Czechia";32605.906;35
+"Cyprus";32415.132;36
+"Slovenia";31400.84;37
+"Slovakia";30155.152;38
+"Lithuania";29524.265;39
+"Estonia";29481.252;40
+"Trinidad and Tobago";28763.071;41
+"Portugal";27936.896;42
+"Bahamas";27717.847;43
+"Poland";27216.445;44
+"Malaysia";26808.164;45
+"Hungary";26777.561;46
+"Seychelles";26382.287;47
+"Turkey";25129.341;48
+"Latvia";25063.846;49
+"Russia";24765.954;50
+"Saint Kitts and Nevis";24654.385;51
+"Greece";24574.382;52
+"Kazakhstan";24055.588;53
+"Romania";23313.199;54
+"Chile";22767.037;55
+"Croatia";22669.797;56
+"Equatorial Guinea";22604.873;57
+"Panama";22267.037;58
+"Antigua and Barbuda";21490.943;59
+"Uruguay";20551.409;60
+"Mauritius";20292.745;61
+"Iran";19082.62;62
+"Argentina";18933.907;63
+"Bulgaria";18563.307;64
+"Libya";17881.509;65
+"Mexico";17336.469;66
+"Belarus";17167.967;67
+"Barbados";16978.068;68
+"Venezuela";16745.022;69
+"Gabon";16562.413;70
+"Montenegro";16409.288;71
+"Turkmenistan";16389.023;72
+"Thailand";16277.671;73
+"Azerbaijan";15847.419;74
+"Botswana";15807.374;75
+"Iraq";15663.986;76
+"Costa Rica";15524.995;77
+"World";15469.207;78
+"China";15308.712;79
+"Maldives";15183.616;80
+"Dominican Republic";14600.861;81
+"Brazil";14103.452;82
+"Serbia";14048.881;83
+"Algeria";13913.839;84
+"Suriname";13767.119;85
+"Grenada";13593.877;86
+"Lebanon";13367.565;87
+"Colombia";13254.949;88
+"Palau";13240.405;89
+"North Macedonia";13111.214;90
+"Saint Lucia";12951.839;91
+"Nauru";12895.635;92
+"South Africa";12294.876;93
+"Peru";12236.706;94
+"Mongolia";11840.846;95
+"Albania";11803.431;96
+"Bosnia and Herzegovina";11713.895;97
+"Sri Lanka";11669.077;98
+"Indonesia";11188.744;99
+"Tunisia";10849.297;100
+"Saint Vincent and the Grenadines";10727.146;101
+"Ecuador";10581.936;102
+"Egypt";10550.206;103
+"Kosovo";9795.834;104
+"Georgia";9745.079;105
+"Dominica";9673.367;106
+"Namibia";9541.808;107
+"Paraguay";8827.01;108
+"Armenia";8787.58;109
+"Bhutan";8708.597;110
+"Fiji";8702.975;111
+"Jordan";8337.49;112
+"Jamaica";8193.571;113
+"Ukraine";7894.393;114
+"Belize";7824.362;115
+"Eswatini";7738.975;116
+"Philippines";7599.188;117
+"Morocco";7485.013;118
+"Guyana";7435.047;119
+"Guatemala";7423.808;120
+"El Salvador";7292.458;121
+"Bolivia";6885.829;122
+"East Timor";6570.102;123
+"India";6426.674;124
+"Laos";6397.36;125
+"Uzbekistan";6253.104;126
+"Cape Verde";6222.554;127
+"Vietnam";6171.884;128
+"Samoa";6021.557;129
+"Angola";5819.495;130
+"Myanmar";5591.597;131
+"Tonga";5425.621;132
+"Nigeria";5338.454;133
+"Nicaragua";5321.444;134
+"Moldova";5189.972;135
+"Pakistan";5034.708;136
+"Congo";4881.406;137
+"Honduras";4541.795;138
+"Sudan";4466.507;139
+"Palestine";4449.898;140
+"Ghana";4227.63;141
+"Papua New Guinea";3823.194;142
+"Marshall Islands";3819.202;143
+"Zambia";3689.251;144
+"Cambodia";3645.07;145
+"Cote d'Ivoire";3601.006;146
+"Mauritania";3597.633;147
+"Tuvalu";3575.104;148
+"Bangladesh";3523.984;149
+"Kyrgyzstan";3393.474;150
+"Cameroon";3364.926;151
+"Micronesia (country)";3299.464;152
+"Sao Tome and Principe";3052.714;153
+"Kenya";2993.028;154
+"Vanuatu";2921.909;155
+"Tajikistan";2896.913;156
+"Lesotho";2851.153;157
+"Djibouti";2705.406;158
+"Tanzania";2683.304;159
+"Senegal";2470.58;160
+"Nepal";2442.804;161
+"Solomon Islands";2205.923;162
+"Benin";2064.236;163
+"Mali";2014.306;164
+"Guinea";1998.926;165
+"Kiribati";1981.132;166
+"Zimbabwe";1899.775;167
+"Rwanda";1854.211;168
+"Afghanistan";1803.987;169
+"Chad";1768.153;170
+"Ethiopia";1729.927;171
+"Burkina Faso";1703.102;172
+"Uganda";1697.707;173
+"Haiti";1653.173;174
+"South Sudan";1569.888;175
+"Gambia";1561.767;176
+"Guinea-Bissau";1548.675;177
+"Eritrea";1510.459;178
+"Yemen";1479.147;179
+"Togo";1429.813;180
+"Madagascar";1416.44;181
+"Comoros";1413.89;182
+"Sierra Leone";1390.3;183
+"Mozambique";1136.103;184
+"Malawi";1095.042;185
+"Niger";926.0;186
+"Democratic Republic of Congo";808.133;187
+"Liberia";752.788;188
+"Burundi";702.225;189
+"Central African Republic";661.24;190
+"Africa";0.0;191
+"American Samoa";0.0;191
+"Andorra";0.0;191
+"Anguilla";0.0;191
+"Asia";0.0;191
+"Bonaire Sint Eustatius and Saba";0.0;191
+"British Virgin Islands";0.0;191
+"Cook Islands";0.0;191
+"Cuba";0.0;191
+"Curacao";0.0;191
+"Europe";0.0;191
+"European Union (27)";0.0;191
+"Falkland Islands";0.0;191
+"Faroe Islands";0.0;191
+"French Guiana";0.0;191
+"French Polynesia";0.0;191
+"Gibraltar";0.0;191
+"Greenland";0.0;191
+"Guadeloupe";0.0;191
+"Guam";0.0;191
+"Guernsey";0.0;191
+"High-income countries";0.0;191
+"Isle of Man";0.0;191
+"Jersey";0.0;191
+"Liechtenstein";0.0;191
+"Low-income countries";0.0;191
+"Lower-middle-income countries";0.0;191
+"Martinique";0.0;191
+"Mayotte";0.0;191
+"Monaco";0.0;191
+"Montserrat";0.0;191
+"New Caledonia";0.0;191
+"Niue";0.0;191
+"North America";0.0;191
+"North Korea";0.0;191
+"Northern Mariana Islands";0.0;191
+"Oceania";0.0;191
+"Pitcairn";0.0;191
+"Reunion";0.0;191
+"Saint Barthelemy";0.0;191
+"Saint Helena";0.0;191
+"Saint Martin (French part)";0.0;191
+"Saint Pierre and Miquelon";0.0;191
+"Somalia";0.0;191
+"South America";0.0;191
+"Syria";0.0;191
+"Tokelau";0.0;191
+"Turks and Caicos Islands";0.0;191
+"United States Virgin Islands";0.0;191
+"Upper-middle-income countries";0.0;191
+"Vatican";0.0;191
+"Wallis and Futuna";0.0;191

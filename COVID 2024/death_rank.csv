@@ -1,0 +1,234 @@
+"Country";"Death_rank";"total_deaths"
+"Brazil";1;702116.0
+"India";2;533623.0
+"Russia";3;403188.0
+"Mexico";4;334551.0
+"Africa";5;259117.0
+"United Kingdom";6;232112.0
+"Peru";7;220975.0
+"Italy";8;197307.0
+"Indonesia";9;162059.0
+"Iran";10;146837.0
+"Colombia";11;142727.0
+"Argentina";12;130663.0
+"China";13;122304.0
+"Poland";14;120726.0
+"Ukraine";15;109920.0
+"South Africa";16;102595.0
+"Turkey";17;101419.0
+"Japan";18;74694.0
+"Romania";19;68825.0
+"Philippines";20;66864.0
+"Chile";21;62730.0
+"Canada";22;55282.0
+"Hungary";23;49053.0
+"Low-income countries";24;43529.0
+"Czechia";25;43509.0
+"Vietnam";26;43206.0
+"Greece";27;39258.0
+"Bulgaria";28;38700.0
+"Malaysia";29;37351.0
+"Ecuador";30;36050.0
+"South Korea";31;35934.0
+"Thailand";32;34715.0
+"Belgium";33;34339.0
+"Oceania";34;32918.0
+"Pakistan";35;30656.0
+"Bangladesh";36;29499.0
+"Tunisia";37;29423.0
+"Portugal";38;28809.0
+"Sweden";39;27399.0
+"Iraq";40;25375.0
+"Australia";41;25236.0
+"Egypt";42;24830.0
+"Netherlands";43;22986.0
+"Austria";44;22534.0
+"Bolivia";45;22387.0
+"Slovakia";46;21227.0
+"Guatemala";47;20203.0
+"Paraguay";48;19880.0
+"Myanmar";49;19494.0
+"Kazakhstan";50;19072.0
+"Croatia";51;18752.0
+"Serbia";52;18057.0
+"Georgia";53;17150.0
+"Sri Lanka";54;16907.0
+"Bosnia and Herzegovina";55;16392.0
+"Morocco";56;16305.0
+"Switzerland";57;14170.0
+"Jordan";58;14122.0
+"Israel";59;12707.0
+"Moldova";60;12245.0
+"Nepal";61;12031.0
+"Finland";62;11466.0
+"Honduras";63;11114.0
+"Lebanon";64;10947.0
+"Azerbaijan";65;10353.0
+"Slovenia";66;10083.0
+"North Macedonia";67;9978.0
+"Lithuania";68;9810.0
+"Ireland";69;9744.0
+"Denmark";70;9693.0
+"Saudi Arabia";71;9646.0
+"Costa Rica";72;9372.0
+"Armenia";73;8777.0
+"Panama";74;8748.0
+"Cuba";75;8530.0
+"Afghanistan";76;7998.0
+"Uruguay";77;7682.0
+"Ethiopia";78;7574.0
+"Latvia";79;7475.0
+"Belarus";80;7118.0
+"Algeria";81;6881.0
+"Libya";82;6437.0
+"Puerto Rico";83;5938.0
+"Venezuela";84;5856.0
+"Zimbabwe";85;5740.0
+"Norway";86;5732.0
+"Palestine";87;5708.0
+"Kenya";88;5689.0
+"Sudan";89;5046.0
+"Oman";90;4628.0
+"Trinidad and Tobago";91;4390.0
+"Dominican Republic";92;4384.0
+"New Zealand";93;4284.0
+"El Salvador";94;4230.0
+"Namibia";95;4108.0
+"Zambia";96;4077.0
+"Uganda";97;3632.0
+"Jamaica";98;3611.0
+"Albania";99;3605.0
+"Kosovo";100;3212.0
+"Syria";101;3163.0
+"Nigeria";102;3155.0
+"Cambodia";103;3056.0
+"Estonia";104;2998.0
+"Botswana";105;2801.0
+"Malawi";106;2686.0
+"Montenegro";107;2654.0
+"Kuwait";108;2570.0
+"United Arab Emirates";109;2349.0
+"Mozambique";110;2252.0
+"Yemen";111;2159.0
+"Mongolia";112;2136.0
+"Singapore";113;2024.0
+"Cameroon";114;1974.0
+"Senegal";115;1971.0
+"Angola";116;1937.0
+"Bahrain";117;1536.0
+"Democratic Republic of Congo";118;1474.0
+"Rwanda";119;1468.0
+"Ghana";120;1462.0
+"Cyprus";121;1451.0
+"Madagascar";122;1428.0
+"Eswatini";123;1427.0
+"Suriname";124;1406.0
+"Somalia";125;1361.0
+"Guyana";126;1302.0
+"Martinique";127;1104.0
+"Mauritius";128;1073.0
+"Kyrgyzstan";129;1024.0
+"Guadeloupe";130;1021.0
+"Uzbekistan";131;1016.0
+"Luxembourg";132;1000.0
+"Mauritania";133;997.0
+"Malta";134;922.0
+"Reunion";135;921.0
+"Fiji";136;885.0
+"Haiti";137;860.0
+"Bahamas";138;849.0
+"Tanzania";139;846.0
+"Cote d'Ivoire";140;835.0
+"Mali";141;743.0
+"Lesotho";142;709.0
+"Qatar";143;690.0
+"Belize";144;688.0
+"Laos";145;671.0
+"Papua New Guinea";146;670.0
+"French Polynesia";147;650.0
+"Barbados";148;593.0
+"Guinea";149;468.0
+"Guam";150;419.0
+"Cape Verde";151;417.0
+"French Guiana";152;413.0
+"Saint Lucia";153;410.0
+"Burkina Faso";154;400.0
+"Congo";155;389.0
+"Gambia";156;372.0
+"Maldives";157;316.0
+"Niger";158;315.0
+"New Caledonia";159;314.0
+"Gabon";160;307.0
+"Curacao";161;305.0
+"Liberia";162;294.0
+"Aruba";163;292.0
+"Togo";164;290.0
+"Nicaragua";165;245.0
+"Grenada";166;238.0
+"Solomon Islands";167;199.0
+"Chad";168;194.0
+"Djibouti";169;189.0
+"Mayotte";170;187.0
+"Iceland";171;186.0
+"Equatorial Guinea";172;183.0
+"Brunei";173;179.0
+"Guinea-Bissau";174;177.0
+"Seychelles";175;172.0
+"Bermuda";176;165.0
+"Benin";177;163.0
+"Jersey";178;161.0
+"Comoros";179;160.0
+"Andorra";180;159.0
+"South Sudan";181;147.0
+"Antigua and Barbuda";182;146.0
+"East Timor";183;138.0
+"United States Virgin Islands";184;132.0
+"San Marino";185;126.0
+"Sierra Leone";186;125.0
+"Tajikistan";186;125.0
+"Saint Vincent and the Grenadines";187;124.0
+"Isle of Man";188;116.0
+"Central African Republic";189;113.0
+"Gibraltar";189;113.0
+"Eritrea";190;103.0
+"Sint Maarten (Dutch part)";191;92.0
+"Liechtenstein";192;89.0
+"Sao Tome and Principe";193;80.0
+"Dominica";194;74.0
+"Guernsey";195;67.0
+"Monaco";195;67.0
+"Micronesia (country)";196;65.0
+"British Virgin Islands";197;64.0
+"Saint Kitts and Nevis";198;46.0
+"Saint Martin (French part)";198;46.0
+"Bonaire Sint Eustatius and Saba";199;41.0
+"Northern Mariana Islands";199;41.0
+"Turks and Caicos Islands";200;40.0
+"Cayman Islands";201;37.0
+"American Samoa";202;34.0
+"Samoa";203;31.0
+"Faroe Islands";204;28.0
+"Kiribati";205;24.0
+"Bhutan";206;21.0
+"Greenland";206;21.0
+"Marshall Islands";207;17.0
+"Burundi";208;15.0
+"Vanuatu";209;14.0
+"Anguilla";210;12.0
+"Tonga";210;12.0
+"Palau";211;10.0
+"Wallis and Futuna";212;9.0
+"Montserrat";213;8.0
+"Saint Barthelemy";214;5.0
+"Cook Islands";215;2.0
+"Saint Pierre and Miquelon";215;2.0
+"Nauru";216;1.0
+"Tuvalu";216;1.0
+"Falkland Islands";217;0.0
+"Niue";217;0.0
+"North Korea";217;0.0
+"Pitcairn";217;0.0
+"Saint Helena";217;0.0
+"Tokelau";217;0.0
+"Turkmenistan";217;0.0
+"Vatican";217;0.0
